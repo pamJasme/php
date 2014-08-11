@@ -1,3 +1,4 @@
+
 <html>
 <input type="text" name="first_name" value="<?= "Dawn"; ?>">
 </html>
@@ -90,3 +91,5 @@ while($i<=10)
 }
 
 ?>
+<table border='0' width='100%' style='background-color: pink'>
+<tr><td><b><a href="ch2.php">Prev</a> |||| <a href="ch3.php">Next</a></b></td></tr></table><br>
