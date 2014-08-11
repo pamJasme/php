@@ -1,3 +1,4 @@
+
 <?php
 
 echo('Hello!\n');		#Sample Codes for 
@@ -63,8 +64,8 @@ class Person
 		echo "callback achieved";
 	}
 	call_user_func($callback);**/
-
-	
-
-
 ?>
+<br><br>
+
+<table border='0' width='100%' style='background-color: pink'>
+<tr><td><b><a href="ch1_graphics.php">Prev</a> |||| <a href="ch2b.php">Next</a></b></td></tr></table><br>
